@@ -7,9 +7,6 @@ These solutions are split into two sections:
  * Problems 1-9 (Written in python)
  * Problems 10-14 (Written in Java, project files are in Netbeans format.)
 
-I forgot to upload solution 12. (I can't find the source file, so it might be re-written soon.)
-
-
 ### What can be improved:
 For the prime number problems, I resorted to a simple exhaustive search function.
 While simple to implement, it is slow. 
